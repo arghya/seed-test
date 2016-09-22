@@ -1,0 +1,17 @@
+{
+  "name": "helloworld_v1",
+  "version": "0.0.1",
+  "description": "Simple helloworld proxy for a basic API usecase",  
+  "directories": {
+    "test": "test"
+  },
+  "dependencies":{
+    "gulp":"*",
+    "gulp-util": "*",
+    "chai":"*",
+    "apigeetool" : "mukundha/apigeetool-node",
+    "seed-sdk" : "mukundha/seed-sdk"
+  },
+   "author": "Argo",
+  "license": "Apache-2.0"
+}
